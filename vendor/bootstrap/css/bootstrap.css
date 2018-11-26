@@ -3840,6 +3840,7 @@ input[type="button"].btn-block {
 }
 
 .nav-link {
+  color : #f05f40
   display: block;
   padding: 0.5rem 1rem;
 }
