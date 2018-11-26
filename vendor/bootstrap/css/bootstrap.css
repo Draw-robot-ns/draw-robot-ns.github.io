@@ -3849,7 +3849,7 @@ input[type="button"].btn-block {
 }
 
 .nav-link.disabled {
-  color: #6c757d;
+  color: #f05f40;
 }
 
 .nav-tabs {
@@ -3878,7 +3878,7 @@ input[type="button"].btn-block {
 
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
-  color: #495057;
+  color: #f05f40;
   background-color: #fff;
   border-color: #dee2e6 #dee2e6 #fff;
 }
