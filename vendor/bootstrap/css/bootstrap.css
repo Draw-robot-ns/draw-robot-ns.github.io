@@ -8863,7 +8863,7 @@ a.text-light:hover, a.text-light:focus {
 .text-outline{
   color: #343a40;
   -webkit-text-fill-color: rgb(238, 91, 65);
-  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: rgb(223, 221, 216);
 }
 .text-dark {
