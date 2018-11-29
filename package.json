@@ -1,8 +1,8 @@
 {
-    "title": "Creative",
-    "name": "startbootstrap-creative",
+    "title": "Звёздная ночь",
+    "name": "Робот \"Звёздная ночь\"",
     "version": "5.0.1",
-    "description": "Creative is a stylish one page HTML theme for Bootstrap.",
+    "description": "Robot that draws on walls.",
     "keywords": [
         "css",
         "sass",
